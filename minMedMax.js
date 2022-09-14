@@ -16,6 +16,6 @@ function minMedMax(n1, n2, n3) {
   return array;
   }
 
-console.log(minMedMax(85, 30, 1));
-
+console.log(minMedMax(85, 30, 2));
+//dasdasdasd
 module.exports = minMedMax
